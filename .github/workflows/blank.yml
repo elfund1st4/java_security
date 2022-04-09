@@ -34,3 +34,10 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+        
+      - name: Build and publish
+        run: |
+        
+        #make bump
+        #make tag
+        #make publish
