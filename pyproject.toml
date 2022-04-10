@@ -5,7 +5,7 @@ description = "Description"
 license = "Licencia"
 authors = ["Th3w00ng"]
 packages = [
-    { include = "snorbleroutine" },
+    { include = "hello" },
 ]
 
 [[tool.poetry.source]]
