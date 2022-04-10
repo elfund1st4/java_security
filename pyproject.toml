@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "hello"
+version = "0.1.1"
+description = "Description"
+license = "Licencia"
+authors = ["Th3w00ng"]
+packages = [
+    { include = "snorbleroutine" },
+]
+
+[[tool.poetry.source]]
+name = "github_actions_test"
+url = "https://miproyecto.d.codeartifact.eu-west-3."
+default = true
